@@ -1,6 +1,6 @@
 # 项目说明
 
-## * 项目基础
+## *项目基础
 python 版本 ： python3
 
 编译器 ： pycharm
@@ -12,7 +12,7 @@ python 版本 ： python3
 
 
 
-##* 项目文件介绍
+## *项目文件介绍
 
 ### algorithm
 算法文件
